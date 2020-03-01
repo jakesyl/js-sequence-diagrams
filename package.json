@@ -1,10 +1,10 @@
 {
-  "name": "js-sequence-diagrams",
+  "name": "js-sequence-diagram",
   "version": "2.0.1",
   "main": "dist/sequence-diagram.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/bramp/js-sequence-diagrams.git"
+    "url": "https://github.com/jakesyl/js-sequence-diagrams.git"
   },
   "license": "BSD-2-Clause",
   "dependencies": {
